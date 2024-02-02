@@ -27,3 +27,4 @@ This includes the MagicStrings class from Program AB. Similar to MagicBooleans, 
 #### 6.import org.alicebot.ab.utils.IOUtils;
 This import statement brings in the IOUtils class from Program AB, providing utility functions related to input/output operations. This can include reading from or writing to files, converting streams, and other common IO tasks that are necessary for managing the bot's resources and interactions.
 
+## Now you are all ready to get started with adding code to your own Chatbot!
