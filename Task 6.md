@@ -2,13 +2,13 @@
 
 The following steps collectively create a functional and interactive chat environment, where the user can freely converse with the chatbot, receiving immediate and intelligent responses based on the chatbot's programming and knowledge base.
 
-### Inside the try block
+### Inside the try block :
 * Add a while loop and set it to run until its true.
 
 ![Preparing our chatbot](/images/9.png)
 
 
-### Inside the while loop
+### Inside the while loop :
 1. System.out.print("Human : ");
 Create a prompt in the console by displaying "Human : ". This sets the stage for an interactive session, signaling to the user that the chatbot is ready to receive their message. It's a crucial step for establishing a clear communication line between the user and the chatbot.
 
