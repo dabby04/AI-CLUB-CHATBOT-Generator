@@ -1,4 +1,4 @@
-## Task 4 : Initializing the chatbot
+## Task-4 : Initializing the chatbot
 
 Carefully calculated resources path and configurable trace mode settings is a nuanced process that sets the stage for a robust, intelligent, and adaptable chatbot application. This foundational step not only affects the bot's immediate functionality but also its future capabilities and areas of application.
 
