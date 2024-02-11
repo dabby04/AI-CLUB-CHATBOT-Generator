@@ -3,7 +3,10 @@
 The following steps collectively create a functional and interactive chat environment, where the user can freely converse with the chatbot, receiving immediate and intelligent responses based on the chatbot's programming and knowledge base.
 
 ### Inside the try block
-* Add a while loop and set it to run until its true. 
+* Add a while loop and set it to run until its true.
+
+![Preparing our chatbot](/images/9.png)
+
 
 ### Inside the while loop
 1. System.out.print("Human : ");
@@ -33,4 +36,6 @@ Create a way for users to exit the chat session gracefully by checking for speci
 Create the bot's response to user input. Take the user's text, process it through the chatbot's AI logic with chatSession.multisentenceRespond(request), and generate a response. Display this response in the console, prefixed by "Bot : ", to indicate that the chatbot is speaking. This completes the cycle of interaction, making the chat experience engaging by providing thoughtful and relevant responses to the user's queries.
 
 ### Your code should now look something like this :
+
+![Preparing our chatbot](/images/8.png)
 
