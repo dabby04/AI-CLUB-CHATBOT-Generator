@@ -17,3 +17,4 @@ The following create statements  describe the process of setting up a chat sessi
 ![Preparing our chatbot](/images/7.png)
    
    
+## Onto task 6 -->
