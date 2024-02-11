@@ -1,4 +1,8 @@
 ## Task-2 : Add the following imports to your project
+ Open your App.java class. Here is a screenshot showing the structure:
+ ![Class Path](/images/directory.png)
+
+ Now add the following imports
  1. import java.io.File;
  2. import org.alicebot.ab.Bot;
  3. import org.alicebot.ab.Chat;
