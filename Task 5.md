@@ -2,7 +2,7 @@
 
 The following create statements  describe the process of setting up a chat session with the bot and preparing the bot for interaction by loading its AIML patterns. Each step is critical for ensuring the bot is ready to engage in meaningful conversations with users, leveraging its knowledge base for responsive dialogue.
 
-#### Now inside our try block add: 
+#### Now inside our try block add : 
 
 1. Chat chatSession = new Chat(bot);
    Create an instance of the Chat class named chatSession using the previously instantiated bot object. This step establishes a new chat session, enabling the bot to interact with users through this session.
