@@ -1,4 +1,4 @@
-## Task-1 Build a maven project
+## Task-1 : Build a maven project
 For you to be able to interact with your chat bot, you need to set up an environment that allows you to do this. For this chat bot, we are going to be creating your maven project using the Eclipse IDE.
 
 *Note: If you do not have Eclipse installed, click [here](https://eclipseide.org) to download. You will need to install Eclipse for Java Developers*
