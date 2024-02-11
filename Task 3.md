@@ -1,4 +1,4 @@
-## Task-3 Setup and Configuration
+## Task-3 : Setup and Configuration
 
 ### Expanding on the setup and configuration
 This foundational task involves defining critical parameters that dictate the bot's operational behavior and debugging capabilities.
