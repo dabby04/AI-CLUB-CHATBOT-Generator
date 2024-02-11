@@ -39,3 +39,4 @@ Create the bot's response to user input. Take the user's text, process it throug
 
 ![Preparing our chatbot](/images/8.png)
 
+## Onto task 7 -->
