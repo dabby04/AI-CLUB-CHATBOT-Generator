@@ -1,4 +1,4 @@
-## Dynamically Determine Resource Path
+## Task-7 : Dynamically Determine Resource Path
 
 Here we will learn to configure the chatbot to dynamically locate and use resource files necessary for its operation, such as AIML files. 
 
