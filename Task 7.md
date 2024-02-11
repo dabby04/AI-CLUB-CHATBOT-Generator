@@ -5,7 +5,7 @@ Here we will learn to configure the chatbot to dynamically locate and use resour
 What is AIML?
 AIML stands for Artificial Intelligence Markup Language. It's a type of XML designed specifically for creating natural language software agents, such as chatbots. AIML files contain patterns and templates that define how a chatbot should respond to user input. Essentially, these files serve as the chatbot's "brain," allowing it to recognize user queries and reply with appropriate responses. The structure of AIML makes it possible to create complex conversations, enabling chatbots to provide more human-like interactions.
 
-### Now outside our main method :
+### Now moving outside our main method :
 
 1. Create a private static method getResourcesPath() that will return a string representing the path to the resources directory.
 
