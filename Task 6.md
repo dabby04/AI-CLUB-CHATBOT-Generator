@@ -5,7 +5,7 @@ The following steps collectively create a functional and interactive chat enviro
 ### Inside the try block :
 * Add a while loop and set it to run until its true.
 
-![Preparing our chatbot](/images/9.png)
+![Processing input and generating responses](/images/9.png)
 
 
 ### Inside the while loop :
@@ -37,6 +37,6 @@ Create the bot's response to user input. Take the user's text, process it throug
 
 ### Your code should now look something like this :
 
-![Preparing our chatbot](/images/8.png)
+![Processing input and generating responses](/images/8.png)
 
 ## Onto task 7 -->
