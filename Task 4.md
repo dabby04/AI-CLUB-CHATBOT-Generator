@@ -5,19 +5,19 @@ Carefully calculated resources path and configurable trace mode settings is a nu
 1. Add a try-catch block:
 try{ - This line initiates our try block. try block in our code is a section which runs the
 lines of code in it and if an error occurs, transfers control of the program to the catch
-block.
+block. Call the method e.printStackTrace(); within the catch block. This action prints the stack trace of the exception to the standard error stream. It's a diagnostic technique that helps in identifying the cause and location of an error within the code. By providing a detailed trace of where the exception occurred, developers can more easily debug and resolve issues, ensuring the stability and reliability of the application.
 
-2. Create a String variable named resourcesPath by calling the getResourcesPath() method. 
+3. Create a String variable named resourcesPath by calling the getResourcesPath() method. 
 Resources Path Calculation (getResourcesPath()):
 This step is crucial for locating and utilizing the AIML (Artificial Intelligence Markup Language) files, which form the brain of our chatbot, named "super" in this context. The method dynamically calculates the absolute path to the directory where these AIML resources are stored. By doing so, it ensures the bot can adapt to different deployment environments (development, testing, production) without hard-coding paths, enhancing portability and ease of setup.
 
-3. Output the calculated resources path to the console. 
+4. Output the calculated resources path to the console. 
 
-4. MagicBooleans.trace_mode = TRACE_MODE;
+5. MagicBooleans.trace_mode = TRACE_MODE;
 Setting trace_mode for Debugging:
 MagicBooleans.trace_mode is set according to the TRACE_MODE value. This boolean flag controls the verbosity of the bot's logging output. When enabled (true), it provides detailed insights into the bot's decision-making process, such as pattern matching and response selection. This is invaluable during development and debugging phases for diagnosing issues, optimizing performance, and understanding the bot's interaction flow. Conversely, disabling it (false) streamlines runtime operations, offering a cleaner output for end-users and reducing overhead.
 
-5. Bot bot = new Bot("super", getResourcesPath());
+6. Bot bot = new Bot("super", getResourcesPath());
 Bot Instance Creation:
 The instantiation of the Bot object with the name "super" and the calculated resources path is an important step in the chatbot's lifecycle. It signifies the transition from preparation to operational status. During this phase, the bot is loaded with AIML files specified in the resources path, knitting together its knowledge base. This step encapsulates the essence of the chatbot, defining its identity ("super") and equipping it with the intelligence (AIML files) required to interact meaningfully with users.
 
