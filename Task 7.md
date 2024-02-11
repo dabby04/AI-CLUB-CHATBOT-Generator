@@ -26,3 +26,5 @@ Create a String variable named resourcesPath by appending the relative path segm
 Finally, create a return statement for the getResourcesPath method that returns the constructed resourcesPath. This ensures that any part of your application requiring access to the resources directory can dynamically obtain the correct path, regardless of where the application is deployed or executed.
 
 ## Your code should now look something like this :
+![Determining source path](/images/10.png)
+
