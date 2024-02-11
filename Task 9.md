@@ -1,5 +1,5 @@
 ## Task-9: Add AIML to your Project
-## Enable .jar in your Project
+### Enable .jar in your Project
 1. Begin by downloading the "lib" folder from the provided repository.
 2. Copy the downloaded "lib" folder into the root directory of your Maven project.
 3. Right-click on your project and select "Build Path."
@@ -11,7 +11,7 @@
    ![](images/jar.png)
 7. Apply the changes and close the build path configuration.
 
-## Adding AIML files
+### Adding AIML files
 1. Navigate to the "src" folder in your project, where you'll find "main" and "test" folders.
 2. Right-click on the "main" folder, hover over "New," and select "Folder."
     ![](images/resources.png)
