@@ -15,5 +15,6 @@ Once you have your worksapce open. Follow these steps in creating your maven pro
 * Assign the name 'Chatbot' to the Group ID and 'Chatbot_demo' to the Artifact ID
   ![groupId and artifactId](/images/4.png)
 * Click Finish
-
+* After everything runs in the console, type "Y" and press enter to complete the creation of your maven project.
+  ![Console image](/images/task1_console.png)
 Congratulations! You have created your own maven project🎉
