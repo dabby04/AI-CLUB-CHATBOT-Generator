@@ -52,6 +52,7 @@ Using this, We can make our own .aiml files and add them to the Chatbot
 
 ```
 4) After you are done with creating this AIML file, Make sure to run the AddAiml class once before running our App class. This will make sure our Chatbot is updated with the newly added AIML file
+Note- You can find the AddAiml.java file along with the tasks on Github.Please download the file and copy it to your project before proceeding.
 
 
 ## Onto Task-12 -->
