@@ -52,10 +52,7 @@ The AI Club Chatbot Generator is perfect for:
 - **Enhanced AI Models:** Incorporate machine learning models for better natural language understanding.
 - **GUI-Based Customization:** Develop a graphical interface for easier bot creation.
 - **Cloud Deployment:** Enable hosting chatbots in the cloud for wider accessibility.
-
-## Contributions
-We welcome contributions to this project! If you'd like to suggest new features, fix issues, or improve documentation, feel free to open an issue or submit a pull request.
-
+  
 ## Acknowledgments
 This project is developed and managed by the **AI Club** at UBCO. It is part of the club's initiative to foster AI learning and innovation.
 
